@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Mohamed Adel from Egypt. I'm a Back Developer. I really enjoy learning Programming languages and frameworks. For This Moment I'm junior web developer and learning increasingly. </h4>
+<h4> I'm Mohamed Adel from Egypt. I'm a Back-end Developer. I really enjoy learning Programming languages and frameworks. For This Moment I'm junior web developer and learning increasingly. </h4>
 
 
 	
@@ -41,7 +41,7 @@
  ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/DevAmr74/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:AmrSaaayed74@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![Linkedin](https://www.linkedin.com/in/mohamed-adel-20a79421b/)
 )](https://www.linkedin.com/in/amr-elsayed74?fbclid=IwAR2GQHOg_V5M1g1n4E85stLhI1Y_ihhGWhOKgzbt0P9p8Zlnfl284Ku4_Kc)
 [![CodePen.io](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/amrsayed74)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amr.sayed74/)
